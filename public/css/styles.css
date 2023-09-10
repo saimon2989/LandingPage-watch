@@ -11,7 +11,7 @@
 /* backgorund */
 
 #bgImage{
-    background: url('./img/Backgrounds.svg');
+    background: url('../img/Backgrounds.svg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
